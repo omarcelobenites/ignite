@@ -14,5 +14,6 @@
       "@contexts/*": ["./src/contexts/*"],
       "@routes/*": ["./src/routes/*"]
     }
+    
   }
 }
